@@ -1,0 +1,28 @@
+name: Buccannerdesign
+favicon: null
+layout_spectrum: 0.6062301774509251
+typography_spectrum: 0.2541768574155867
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.773441445780918
+  lightness: 0.1480446453206241
+  saturation: 0.3879040195606649
+  rhythmicContrast: 0.7637281788047403
+purpose: []
