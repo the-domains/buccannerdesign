@@ -5,12 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'http://www.vibel.co.uk/wp-content/uploads/2015/12/graphic_design_idea.jpg'
-datePublished: '2016-06-18T12:59:18.226Z'
-dateModified: '2016-06-18T12:59:17.886Z'
-title: ''
-author: []
+datePublished: '2016-06-18T13:00:14.858Z'
+dateModified: '2016-06-18T13:00:14.575Z'
 authors: []
 publisher: null
+title: ''
+author: []
 starred: false
 sourcePath: _posts/2016-06-18-httpwwwvibelcoukwp-contentuploads201512graphic_de.md
 url: httpwwwvibelcoukwp-contentuploads201512graphic_de/index.html
