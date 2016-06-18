@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Buccaneer design]]></title>
+        <description><![CDATA[Buccaneer design]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 18 Jun 2016 12:59:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://www.vibel.co.uk/wp-content/uploads/2015/12/graphic_design_idea.jpg</p>]]></description>
+            <link>undefinedhttpwwwvibelcoukwp-contentuploads201512graphic_de/index.html</link>
+            <guid isPermaLink="false">5f452074-d719-485d-973a-243b2c0201ec</guid>
+            <pubDate>Sat, 18 Jun 2016 12:59:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
