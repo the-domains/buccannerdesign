@@ -1,6 +1,6 @@
 name: Buccannerdesign
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.99689
 typography_spectrum: 0.39199
 title: Buccaneer design
 cta:
@@ -22,7 +22,7 @@ color:
     - '#2b2b2b'
     - '#ede9e6'
     - '#c3bfb4'
-  brandStrength: 0.773441445780918
+  brandStrength: 0.5
   lightness: 0.1480446453206241
   saturation: 0.3879040195606649
   rhythmicContrast: 0.7637281788047403
