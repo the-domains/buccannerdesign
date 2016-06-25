@@ -1,7 +1,7 @@
 name: Buccannerdesign
 favicon: null
-layout_spectrum: 0.00304
-typography_spectrum: 0.39199
+layout_spectrum: 0.5267412820830941
+typography_spectrum: 0.053690992994233966
 title: Buccaneer design
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#f6f1f7'
-    - '#c9c4ca'
-    - '#484349'
-    - '#676268'
-  brandStrength: 0.5
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
+  brandStrength: 0.0028951296117156744
+  lightness: 0.011696256464347243
+  saturation: 0.7396250597666949
+  rhythmicContrast: 0.4243486849591136
 purpose: []
